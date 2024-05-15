@@ -1,5 +1,6 @@
 # KW_DMS
 DMS(Drive Monitoring System)
+- 운전자가 전방 주시를 하는지 또는 졸음 운전중인지를 딥러닝 기반으로 모니터링
 
 ## 환경
 - ubuntu 20.04
@@ -15,7 +16,10 @@ DMS(Drive Monitoring System)
 
 ## DMS 실행
 ```
-git clone https://github.com/Kang812/Llama3_8B_Papering_QA_Bot.git
-cd ./models
-python model_download.py
+git clone https://github.com/Kang812/KW_DMS.git\
+cd ./KW_DMS
+./main.sh
 ```
+
+## DMS 시각화 결과
+- [사용한 데이터 셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=173)
