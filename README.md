@@ -10,7 +10,7 @@ DMS(Drive Monitoring System)
 
 ## 사용모델
 - [retinanet(mobilenet0.25)](https://github.com/biubug6/Pytorch_Retinaface)
-  * mAP0.97
+  * mAP : 0.97 달성
 - [PFLD](https://github.com/polarisZhao/PFLD-pytorch)
 - 모델 학습 관련된 내용은 각 깃헙 참고
 
