@@ -19,7 +19,16 @@ DMS(Drive Monitoring System)
 git clone https://github.com/Kang812/KW_DMS.git
 cd ./KW_DMS
 pip install -r requirements.txt
-cd ./models/
+```
+```
+# face detection model download
+cd ./KW_DMS/models/face_detection/
+python face_detection_model_download.py
+```
+```
+# face landmark detection model download
+cd ./KW_DMS/models/landmark_detection/
+python face_landmark_detection_model_download.py
 ```
 
 ## DMS 실행
