@@ -38,3 +38,4 @@ python face_landmark_detection_model_download.py
 
 ## DMS 시각화 결과
 - [DMS에 사용한 데이터 셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=173)
+![image](./result_img/result_img.png)
