@@ -8,6 +8,6 @@ DMS(Drive Monitoring System)
 - gpu RTX 3060 12GB x2
 
 ## 사용모델
-- retinanet(mobilenet0.25)[https://github.com/biubug6/Pytorch_Retinaface]
+- !retinanet(mobilenet0.25)[https://github.com/biubug6/Pytorch_Retinaface]
   * mAP0.97
 - PFLD
