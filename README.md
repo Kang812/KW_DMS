@@ -14,10 +14,15 @@ DMS(Drive Monitoring System)
 - [PFLD](https://github.com/polarisZhao/PFLD-pytorch)
 - 모델 학습 관련된 내용은 각 깃헙 참고
 
+## 모델 다운로드
+```
+git clone https://github.com/Kang812/KW_DMS.git
+cd ./KW_DMS/model
+./main.sh
+```
+
 ## DMS 실행
 ```
-git clone https://github.com/Kang812/KW_DMS.git\
-cd ./KW_DMS
 ./main.sh
 ```
 
