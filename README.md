@@ -3,10 +3,10 @@ DMS(Drive Monitoring System)
 - 운전자가 전방 주시를 하는지 또는 졸음 운전중인지를 딥러닝 기반으로 모니터링
 
 ## 환경
-- ubuntu 20.04
-- cpu AMD Ryzen 4650g
-- ram 64gb
-- gpu RTX 3060 12GB x2
+- OS : ubuntu 20.04
+- CPU : AMD Ryzen 4650g
+- RAM : 64gb
+- GPU : RTX 3060 12GB x 2
 
 ## 사용모델
 - [retinanet(mobilenet0.25)](https://github.com/biubug6/Pytorch_Retinaface)
